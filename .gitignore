@@ -2,11 +2,13 @@ venv/
 env/
 .env
 
-data/
+data/*
+!data/.gitkeep
 
 models/*.joblib
 models/*.pkl
 models/*.h5
+!models/.gitkeep
 
 __pycache__/
 *.pyc
