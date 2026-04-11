@@ -10,6 +10,8 @@ models/*.pkl
 models/*.h5
 !models/.gitkeep
 
+notebooks/00_preprocess.ipynb
+
 __pycache__/
 *.pyc
 *.pyo
