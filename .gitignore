@@ -10,6 +10,8 @@ models/*.pkl
 models/*.h5
 !models/.gitkeep
 
+models/*.pkl
+
 __pycache__/
 *.pyc
 *.pyo
